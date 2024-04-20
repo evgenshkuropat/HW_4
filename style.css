@@ -39,7 +39,7 @@ span.blue-text {
     color: darkblue;
     font-weight: bold;
 }
-.skills {
+.skills p {
     background-color: gray;
     color: white;
 }
@@ -50,4 +50,14 @@ span.blue-text {
     font-weight: bold;
     text-align: right;
     font-size: 2em;
+}
+.skills .gray-bg {
+    background-color: lightgray;
+    color: white;
+}
+.skills .white-bg {
+    background-color: white;
+    color: black;
+    padding-left: 40px;
+
 }
